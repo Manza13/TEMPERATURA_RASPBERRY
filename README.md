@@ -2,7 +2,7 @@
 
 Este script, podras ver la temperatura de tu raspberry pi con Raspbian.
 
-Probado:
-  HW: Raspberry pi 3B
-  SO: Raspbian
+    Probado:
+      *HW: Raspberry pi 3B
+      *SO: Raspbian
  
