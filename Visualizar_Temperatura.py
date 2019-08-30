@@ -2,13 +2,13 @@ try:
 
 	import paramiko, time
 	from getpass import getpass
-	print("REQUESITOS COMPLETADOS\n")
+	print("REQUISITOS COMPLETADOS\n")
 	time.sleep(2)
 
 except:
 
 	print("TE FALTAN REQUISITOS")
-	print("INSTALANDO REQUESITOS...")
+	print("INSTALANDO REQUISITOS...")
 
 	import os
 	os.system("pip install paramiko")
